@@ -1,16 +1,14 @@
 <script setup>
-import login from './components/login.vue'
-
-import "bootstrap";
-import "bootstrap/dist/css/bootstrap.min.css";
+import minavbar from './components/header.vue'
 </script>
 
 <template>
-  <login/>
+  <router-view/>
 </template>
 
 <style>
-#app{
-  width: 100%;
-}
+  #app{
+    width: 100%;
+    height: 100%;
+  }
 </style>
