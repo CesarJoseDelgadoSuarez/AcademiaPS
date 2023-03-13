@@ -1,6 +1,6 @@
 # AcademiaPs
 
-Proyecto del grupo 8 de Producción de Software.
+Proyecto del grupo 8 de Producción de Software en el grado de Ingeniería Informática en la ULPGC.
 
 ## Project Setup
 
